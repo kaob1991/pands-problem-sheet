@@ -10,10 +10,10 @@
 
 # Author: Katie O'Brien 
 
-
+import sys
 
 k = 0
-filename = "moby-dick.txt" 
+filename = sys.argv [1]
 
 with open (filename, "r") as f:
     for line in f:
