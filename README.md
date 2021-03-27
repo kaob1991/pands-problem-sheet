@@ -3,6 +3,7 @@
 Work to be done: 
 
 Cross ref python read me files to ensure doc is correct
+figure out why links are not coming out correctly on github but are fine on vsc
 
 
 
