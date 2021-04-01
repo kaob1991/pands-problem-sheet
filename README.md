@@ -15,10 +15,11 @@ Week 2: bmi.py
   The output  is their weight divided by their height in metres squared.
   
   References:
-    http://files.urpdfs.com/automate-the-boring-stuff-with-python.pdf
+  
+   http://files.urpdfs.com/automate-the-boring-stuff-with-python.pdf
       Retrieved 27/03/21 @ 19.03
-
-    https://stackoverflow.com/questions/455612/limiting-floats-to-two-decimal-points
+      
+   https://stackoverflow.com/questions/455612/limiting-floats-to-two-decimal-points
       Retrieved 05/03/21 @ 16:59
 
 
@@ -26,11 +27,12 @@ Week 3: secondstring.py
   Write a program that takes asks a user to input a string and outputs every second letter in reverse order. 
 
   References: 
-    https://www.educative.io/edpresso/how-do-you-reverse-a-string-in-python
+  
+   https://www.educative.io/edpresso/how-do-you-reverse-a-string-in-python
       Retrieved 4/02/21 @ 18:00
-    http://files.urpdfs.com/automate-the-boring-stuff-with-python.pdf
+   http://files.urpdfs.com/automate-the-boring-stuff-with-python.pdf
       Retrieved 27/03/21 @ 19.03
-    https://stackoverflow.com/questions/20847205/program-to-extract-every-alternate-letters-from-a-string-in-python
+   https://stackoverflow.com/questions/20847205/program-to-extract-every-alternate-letters-from-a-string-in-python
       Retrieved 4/02/21 @ 18:20
 
 Week 4: collatz.py
@@ -39,16 +41,18 @@ Week 4: collatz.py
   Have the program end if the current value is one.
 
   References:
-    http://files.urpdfs.com/automate-the-boring-stuff-with-python.pdf
+  
+   http://files.urpdfs.com/automate-the-boring-stuff-with-python.pdf
       Retrieved 27/03/21 @ 19.03
 
 Week 5: weekday.py
   Write a program that outputs whether or not today is a weekday. Vary the output depending on whether it is a weekday or weekend.
 
   References:
-    https://www.tutorialsrack.com/articles/324/how-to-find-the-current-day-is-weekday-or-weekends-in-python
+  
+   https://www.tutorialsrack.com/articles/324/how-to-find-the-current-day-is-weekday-or-weekends-in-python
        Retrieved 14/02/21 @ 14:00
-    https://docs.python.org/3/library/datetime.html
+   https://docs.python.org/3/library/datetime.html
       Retrieved 14/02/21 @ 14.00
 
 Week 6: squareroot.py
@@ -59,16 +63,17 @@ Week 6: squareroot.py
   I suggest that you look at the newton method at estimating square roots.
 
   References:
-    https://stackoverflow.com/questions/46183020/square-root-without-pre-defined-function-in-python
+  
+   https://stackoverflow.com/questions/46183020/square-root-without-pre-defined-function-in-python
      Retrieved 05/03/21 @ 16:40
 
-    https://medium.com/swlh/finding-a-functions-roots-with-python-590eca0d22a5
+   https://medium.com/swlh/finding-a-functions-roots-with-python-590eca0d22a5
       Retrieved 05/03/21 @ 16:40
 
-    https://www.math.ubc.ca/~pwalls/math-python/roots-optimization/newton/
+   https://www.math.ubc.ca/~pwalls/math-python/roots-optimization/newton/
       Retrieved 05/03/21 @ 16:41
 
-    https://stackoverflow.com/questions/455612/limiting-floats-to-two-decimal-points
+   https://stackoverflow.com/questions/455612/limiting-floats-to-two-decimal-points
       Retrieved 05/03/21 @ 16.59
 
 Week 7: es.py
