@@ -2,6 +2,8 @@
 # Depending on whether it is a weekday or weekend using datetime 
 
 #References:
+# https://jakevdp.github.io/WhirlwindTourOfPython/
+# Retrieved 01/04/21 @ 17:00
 # https://www.tutorialsrack.com/articles/324/how-to-find-the-current-day-is-weekday-or-weekends-in-python
 # Retrieved 14/02/21 @ 14:00
 # https://docs.python.org/3/library/datetime.html

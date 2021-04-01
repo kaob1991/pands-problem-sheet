@@ -6,6 +6,8 @@
 # References
 # http://files.urpdfs.com/automate-the-boring-stuff-with-python.pdf
 # Retrieved 27/03/21 @ 19.03
+# https://jakevdp.github.io/WhirlwindTourOfPython/
+# Retrieved 01/04/21 @ 17:00
 
 # Author: Katie O'Brien 
 

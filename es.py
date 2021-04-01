@@ -13,6 +13,9 @@
 # https://www.tutorialsteacher.com/python/sys-module
     # Retrieved 27/03/21 @ 18:15
 
+#https://jakevdp.github.io/WhirlwindTourOfPython/
+    # Retrieved 01/04/21 @ 17:00
+
 # Author: Katie O'Brien 
 
 import sys # module to manipulate the Python runtime environment

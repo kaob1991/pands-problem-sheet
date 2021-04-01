@@ -7,6 +7,8 @@
 # Reference: 
 # https://www.w3schools.com/python/matplotlib_pyplot.asp
     # Retrieved 27/03/21 @ 17.49
+#https://jakevdp.github.io/WhirlwindTourOfPython/
+    # Retrieved 01/04/21 @ 17:00
 
 # Author Katie O'Brien 
 

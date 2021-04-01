@@ -7,6 +7,9 @@
 # https://stackoverflow.com/questions/455612/limiting-floats-to-two-decimal-points
 # Retrieved 05/03/21 @ 16:59
 
+# https://jakevdp.github.io/WhirlwindTourOfPython/
+# Retrieved 01/04/21 @ 17:00
+
 # Author: Katie O'Brien
 
 weight = float(input("Please enter your weight in kg's: ")) # asks for weight

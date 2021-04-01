@@ -1,6 +1,8 @@
 # This program reads a string and outputs every second letter in reverse order 
 
 # References: 
+# https://jakevdp.github.io/WhirlwindTourOfPython/
+# Retrieved 01/04/21 @ 17:00
 # https://www.educative.io/edpresso/how-do-you-reverse-a-string-in-python
 # Retrieved 4/02/21 @ 18:00
 # http://files.urpdfs.com/automate-the-boring-stuff-with-python.pdf
