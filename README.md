@@ -7,9 +7,9 @@ Cross ref python read me files to ensure doc is correct
 
 
 
-#Brief's: 
+# Brief's: 
 
-##Week 2:
+## Week 2:
 
 bmi.py
   Write a program that calculates somebody's Body Mass Index (BMI). 
@@ -25,7 +25,7 @@ bmi.py
       Retrieved 05/03/21 @ 16:59
 
 
-##Week 3:
+## Week 3:
 
 secondstring.py
   Write a program that takes asks a user to input a string and outputs every second letter in reverse order. 
