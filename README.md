@@ -11,7 +11,7 @@ Cross ref python read me files to ensure doc is correct
 
 ## Week 2:
 
-bmi.py
+### bmi.py
   Write a program that calculates somebody's Body Mass Index (BMI). 
   The inputs are the person's height in centimetres and weight in kilograms.
   The output  is their weight divided by their height in metres squared.
@@ -27,7 +27,7 @@ bmi.py
 
 ## Week 3:
 
-secondstring.py
+### secondstring.py
   Write a program that takes asks a user to input a string and outputs every second letter in reverse order. 
 
   References: 
@@ -39,8 +39,8 @@ secondstring.py
    https://stackoverflow.com/questions/20847205/program-to-extract-every-alternate-letters-from-a-string-in-python
       Retrieved 4/02/21 @ 18:20
 
-Week 4:
-collatz.py
+## Week 4:
+### collatz.py
   Write a program that asks the user to input any positive integer and outputs the successive values of the following calculation.
   At each step calculate the next value by taking the current value and, if it is even, divide it by two, but if it is odd, multiply it by three and add one.
   Have the program end if the current value is one.
