@@ -1,6 +1,7 @@
-# pands-problem-sheet
+# Programming and Scripting Problem Sheet
+ Submitted as part of the module "Programming and Scripting" 
 
-### References 
+### References for Read Me file:  
 
 * https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project
  Retrieved 1/04/21 @ 17.30
