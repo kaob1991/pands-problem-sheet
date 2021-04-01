@@ -16,11 +16,11 @@ https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-proje
   
   ### References:
   
-   https://jakevdp.github.io/WhirlwindTourOfPython/  
+  * https://jakevdp.github.io/WhirlwindTourOfPython/  
       Retrieved 01/04/21 @ 17:00
-   http://files.urpdfs.com/automate-the-boring-stuff-with-python.pdf
+  * http://files.urpdfs.com/automate-the-boring-stuff-with-python.pdf
       Retrieved 27/03/21 @ 19:03
-   https://stackoverflow.com/questions/455612/limiting-floats-to-two-decimal-points
+  * https://stackoverflow.com/questions/455612/limiting-floats-to-two-decimal-points
       Retrieved 05/03/21 @ 16:59
 
 
