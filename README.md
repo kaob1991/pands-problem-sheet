@@ -1,11 +1,9 @@
 # pands-problem-sheet
 
-Work to be done: 
+### References 
 
-Cross ref python read me files to ensure doc is correct
-
-
-
+https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project
+ Retrieved 1/04/21 @ 17.30
 
 # Brief's: 
 
@@ -18,9 +16,11 @@ Cross ref python read me files to ensure doc is correct
   
   ### References:
   
+   https://jakevdp.github.io/WhirlwindTourOfPython/  
+      Retrieved 01/04/21 @ 17:00
    http://files.urpdfs.com/automate-the-boring-stuff-with-python.pdf
-      Retrieved 27/03/21 @ 19.03
-  https://stackoverflow.com/questions/455612/limiting-floats-to-two-decimal-points
+      Retrieved 27/03/21 @ 19:03
+   https://stackoverflow.com/questions/455612/limiting-floats-to-two-decimal-points
       Retrieved 05/03/21 @ 16:59
 
 
@@ -31,10 +31,12 @@ Cross ref python read me files to ensure doc is correct
 
   ### References: 
   
+   https://jakevdp.github.io/WhirlwindTourOfPython/  
+      Retrieved 01/04/21 @ 17:00  
    https://www.educative.io/edpresso/how-do-you-reverse-a-string-in-python
       Retrieved 4/02/21 @ 18:00
    http://files.urpdfs.com/automate-the-boring-stuff-with-python.pdf
-      Retrieved 27/03/21 @ 19.03
+      Retrieved 27/03/21 @ 19:03
    https://stackoverflow.com/questions/20847205/program-to-extract-every-alternate-letters-from-a-string-in-python
       Retrieved 4/02/21 @ 18:20
 
@@ -46,19 +48,23 @@ Cross ref python read me files to ensure doc is correct
 
   ### References:
   
+   https://jakevdp.github.io/WhirlwindTourOfPython/  
+      Retrieved 01/04/21 @ 17:00  
    http://files.urpdfs.com/automate-the-boring-stuff-with-python.pdf
-      Retrieved 27/03/21 @ 19.03
+      Retrieved 27/03/21 @ 19:03
 
 ## Week 5:
 ### weekday.py
   Write a program that outputs whether or not today is a weekday. Vary the output depending on whether it is a weekday or weekend.
 
  ### References:
-  
+ 
+   https://jakevdp.github.io/WhirlwindTourOfPython/  
+      Retrieved 01/04/21 @ 17:00 
    https://www.tutorialsrack.com/articles/324/how-to-find-the-current-day-is-weekday-or-weekends-in-python
        Retrieved 14/02/21 @ 14:00
    https://docs.python.org/3/library/datetime.html
-      Retrieved 14/02/21 @ 14.00
+      Retrieved 14/02/21 @ 14:00
 
 ## Week 6:
 ### squareroot.py
@@ -70,17 +76,16 @@ Cross ref python read me files to ensure doc is correct
 
   ### References:
   
+   https://jakevdp.github.io/WhirlwindTourOfPython/  
+      Retrieved 01/04/21 @ 17:00
    https://stackoverflow.com/questions/46183020/square-root-without-pre-defined-function-in-python
      Retrieved 05/03/21 @ 16:40
-
    https://medium.com/swlh/finding-a-functions-roots-with-python-590eca0d22a5
       Retrieved 05/03/21 @ 16:40
-
    https://www.math.ubc.ca/~pwalls/math-python/roots-optimization/newton/
       Retrieved 05/03/21 @ 16:41
-
    https://stackoverflow.com/questions/455612/limiting-floats-to-two-decimal-points
-      Retrieved 05/03/21 @ 16.59
+      Retrieved 05/03/21 @ 16:59
 
 ## Week 7:
 ### es.py
@@ -88,12 +93,13 @@ Cross ref python read me files to ensure doc is correct
   The program should take the filename from an argument on the command line.
 
   ### References:
+  
+  https://jakevdp.github.io/WhirlwindTourOfPython/  
+      Retrieved 01/04/21 @ 17:00  
   https://www.gutenberg.org/files/2701/old/moby10b.txt
     retrieved on 05/03/21 @ 17:15
- 
   https://www.sanfoundry.com/python-program-read-file-counts-number/
     retrieved 05/03/21 @ 18:19
-  
   https://www.tutorialsteacher.com/python/sys-module
     retrieved 27/03/21 @ 18.15
 
@@ -103,5 +109,8 @@ Cross ref python read me files to ensure doc is correct
   Some marks will be given for making the plot look nice.
 
   ### References: 
+  
   https://www.w3schools.com/python/matplotlib_pyplot.asp 
     retrieved 27/03/21 @ 17.49
+  https://jakevdp.github.io/WhirlwindTourOfPython/  
+      Retrieved 01/04/21 @ 17:00
