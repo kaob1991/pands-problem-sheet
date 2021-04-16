@@ -28,7 +28,7 @@
 ## Week 3:
 
 ### secondstring.py
-  Write a program that takes asks a user to input a string and outputs every second letter in reverse order. 
+  Write a program that asks a user to input a string and outputs every second letter in reverse order. 
 
   ### References: 
   
@@ -90,7 +90,7 @@
 
 ## Week 7:
 ### es.py
-  Write a program that reads in a text file and outputs the number of e's it contains.
+  Write a program that reads in a text file and outputs the number of "e's" it contains.
   The program should take the filename from an argument on the command line.
 
   ### References:
