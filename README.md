@@ -1,5 +1,5 @@
 # Programming and Scripting Problem Sheet
- Submitted as part of the module "Programming and Scripting" in partial fulfillment of the H.Dip in Data Analytics. 
+ Submitted as part of the module "Programming and Scripting" in partial fulfillment of a H.Dip in Data Analytics. 
 
 ### References for Read Me file:  
 
